@@ -516,7 +516,7 @@ header nav .form i {
   border-radius: 1px;
   font-weight: bold;
   transition: 0.5s;
-  /* background-image: linear-gradient(
+  background-image: linear-gradient(
     30deg,
     var(--main-color) 50%,
     transparent 50%
@@ -525,7 +525,7 @@ header nav .form i {
   background-repeat: no-repeat;
   background-position: 0;
   -webkit-transition: background 300ms ease-in-out;
-  transition: background 300ms ease-in-out; */
+  transition: background 300ms ease-in-out;
 }
 
 .more:hover {
